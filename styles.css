@@ -99,6 +99,18 @@ body{
     transition: all 0.5s ease-in-out;
 }
 
+.copy{
+    color: #fff;
+    text-align: center;
+    opacity: 60%;
+    background-color: #3131315a;
+    border-radius: 30px;
+    padding: 3px;
+    position: fixed;
+    bottom: 11px;
+    width: 13%;
+}
+
 .hide{
     display: none;
 }
