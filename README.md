@@ -9,13 +9,13 @@
 
 - [Introdução](#introdução)
 - [Estrutura de Pastas e Arquivos](#estrutura-de-pastas-e-arquivos)
-- [Conteúdo dos Arquivos](#conteúdo-dos-arquivos)
+- [Descrição dos Arquivos](#descricao-dos-arquivos)
   - [index.html](#indexhtml)
   - [styles.css](#stylescss)
   - [script.js](#scriptjs)
   - [Imagens](#imagens)
 - [Como Usar](#como-usar)
-- [Licença](#licença)
+
 
 ## Introdução
 
