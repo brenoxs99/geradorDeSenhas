@@ -9,7 +9,7 @@
 
 - [Introdução](#introdução)
 - [Estrutura de Pastas e Arquivos](#estrutura-de-pastas-e-arquivos)
-- [Descrição dos Arquivos](#descricao-dos-arquivos)
+- [Descrição dos Arquivos](#descrição-dos-arquivos)
   - [index.html](#indexhtml)
   - [styles.css](#stylescss)
   - [script.js](#scriptjs)
